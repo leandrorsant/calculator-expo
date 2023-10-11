@@ -2,9 +2,9 @@ import React from 'react'
 import { Text } from 'react-native'
 
 
-const Display = ({displayText}) => {
+const Display = ({displayText, textStyle} ) => {
   return (
-    <Text>{displayText}</Text>
+    <Text style={textStyle}>{displayText}</Text>
   )
 }
 
