@@ -3,7 +3,7 @@ Calculator built with [ReactNative](https://reactnative.dev/).
 
 ### Screenshots
 <div style="display:flex">
-<img src="https://raw.githubusercontent.com/leandrorsant/calculator-expo/master/components/screenshots/Calculator-expo_screenshot1.png" width=30% height=30%>
+<img style="display:flex 33%;" src="https://raw.githubusercontent.com/leandrorsant/calculator-expo/master/components/screenshots/Calculator-expo_screenshot1.png" width=30% height=30%>
 
-<img src="https://raw.githubusercontent.com/leandrorsant/calculator-expo/master/components/screenshots/Calculator-expo_screenshot1.png" width=30% height=30%>
+<img style="display:flex 33%;" src="https://raw.githubusercontent.com/leandrorsant/calculator-expo/master/components/screenshots/Calculator-expo_screenshot1.png" width=30% height=30%>
 </div>
